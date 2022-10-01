@@ -1,5 +1,5 @@
 {
-    "name": "UNLIMITED FILTER BOT",
+    "name": "Manual Filter Bot",
     "description": "An unlimited filter bot using Mongo DB",
     "keywords": [
         "UNLIMITED",
@@ -7,9 +7,8 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://github.com/SLHansakaAnuhas",
-    "repository": "https://github.com/SLHansakaAnuhas/SLFiltersBot",
-    "success_url": "https://t.me/Hansaka_Anuhas",
+    "website": "https://github.com/Hansaka-Anuhas-1/Manual-Filter-Bot",
+    "repository": "https://github.com/Hansaka-Anuhas-1/Manual-Filter-Bot",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
