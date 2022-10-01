@@ -1,14 +1,14 @@
 {
-    "name": "Manual Filter Bot",
+    "name": "JK Filter Bot",
     "description": "An unlimited filter bot using Mongo DB",
     "keywords": [
         "UNLIMITED",
         "Filter",
         "Telegram Bot",
-        "TroJanzHEX"
+        "JK SER"
     ],
-    "website": "https://github.com/Hansaka-Anuhas-1/Manual-Filter-Bot",
-    "repository": "https://github.com/Hansaka-Anuhas-1/Manual-Filter-Bot",
+    "website": "https://T.ME/JK_SER",
+    "repository": "https://t.me/jk_ser",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
