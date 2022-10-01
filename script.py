@@ -16,5 +16,5 @@ Add Me As Admin In Your Groups 🤩"""
 /connect - Connect PM
 /connections - List All Connections"""
 
-    ABOUT_MSG = """My Name: SL Filters Bot
-Creator: <a href=https://t.me/Hansaka_Anuhas>Hansaka Anuhas</a> 🇱🇰"""
+    ABOUT_MSG = """My Name: JK Filter Bot
+Creator: <a href=https://t.me/JK_SER>JK_SER</a> """
